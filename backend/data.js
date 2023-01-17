@@ -1,6 +1,7 @@
 const data = {
     products: [
         {
+            _id: '1',
             name: 'In Search of Lost Time',
             author: 'Marcel Proust',
             slug: 'in-search-of-lost-time',
@@ -14,6 +15,7 @@ const data = {
             description: "In Search of Lost Time follows the narrator's recollections of childhood and experiences into adulthood in the late 19th-century and early 20th-century high-society France, while reflecting on the loss of time and lack of meaning in the world.",
         },
         {
+            _id: '2',
             name: 'One Hundred Years of Solitude',
             author: 'Gabriel Garcia Marquez',
             slug: 'one-hundred-years-of-solitude',
@@ -27,6 +29,7 @@ const data = {
             description: "This is the author's epic tale of seven generations of the Buendía family that also spans a hundred years of turbulent Latin American history, from the postcolonial 1820s to the 1920s."
         },
         {
+            _id: '3',
             name: "Grimms' Fairy Tales",
             author: 'Jacob and Wilhelm Grimm',
             slug: 'grimms',
@@ -40,6 +43,7 @@ const data = {
             description: "The tales are about children and families and how they reacted to the difficult conditions under which they lived"
         },
         {
+            _id: '4',
             name: "Little Women",
             author: "Louisa May Alcott",
             slug: 'womens',
